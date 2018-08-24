@@ -1,6 +1,6 @@
 # VPN
 This project is to tell you how to create VPN  
-首先要拥有一台国外服务器，建议购买Digitalocean的，DigitalOcean,具体方法我这里不在重复造轮子，详见从零开始，搭建属于自己的VPN。在这里补充几点，
+首先要拥有一台国外服务器，建议购买Digitalocean ( https://m.do.co/c/7c11cc7bf3f40  这是我的推荐链接，如果你能从此处进入网站，我将得到优惠，或者进入官网直接注册也行)的,具体方法我这里不在重复造轮子，详见（ https://blog.csdn.net/polyhedronx/article/details/80986021 ）。在这里补充几点，
 1. 关于费用、优惠：要是学生的话，可以通过Github学生认证（链接 https://education.github.com/pack ）得到50美元的优惠。（要用自己的学校邮箱） 
 DigitalOcean上最基础的服务器配置如下：每月5美元，1000GB流量，512MB的CPU，20G的SSD硬盘。完成DigitalOcean的注册后需要充值5美元激活账号，
 这时需要有国外的信用卡或者使用PayPal，注册PayPal后绑定银联的银行卡就行，付费时直接从银行卡中扣费。（PayPal相当于国外的支付宝，也是很方便）。
